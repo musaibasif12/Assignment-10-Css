@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    background-color: pink;
+
+}
+
+p{
+    color: grey;
+}
+
+.style{
+    color: orange;
+    background-color: rgb(255, 255, 104);
+}
+
+li a{
+    color: green;
+    text-decoration: underline;
+    background-color: rgb(181, 249, 181);
+       
+}
